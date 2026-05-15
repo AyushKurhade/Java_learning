@@ -22,7 +22,7 @@ public class basics_01 {
         System.out.println(s1+s2); // 1234
 
 
-            // string + string = string 
+            // string + string = string  --
 
             
 
