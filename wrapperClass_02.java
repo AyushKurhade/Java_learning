@@ -1,4 +1,4 @@
-public class wrapperClass {
+public class wrapperClass_02 {
     
 // Objective of wrapper class is to convert primitive data type into object and object into primitive data type
 
