@@ -1,6 +1,6 @@
 
 
-class unaryoperator {
+class unaryOperator {
     public static void main(String[] args) {
         
         // a++ - use the value of a, then increment a
