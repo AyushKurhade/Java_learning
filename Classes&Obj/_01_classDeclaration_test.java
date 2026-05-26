@@ -29,6 +29,20 @@ public class _01_classDeclaration_test{ // main class
         obj1.setdata();
         obj1.displayData();
 
+// *********************************************************
+
+
+//  *************** creating another object of the same class ****************
+// checking the default values of the data members for the new object created
+
+
+
+        _01_classsDeclaration obj2 = new _01_classsDeclaration();
+      
+             obj2.displayData();
+             obj2.setdata();
+       
+
 
     }
 }
